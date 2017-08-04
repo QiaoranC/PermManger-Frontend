@@ -3,9 +3,11 @@
 选用element组件
 
 **安装方法**
+需要配合安装api
 npm install
 npm run dev
 
+前端API设置路径在 src/config.js
 **效果如下**
 <img width="1300" alt="2017-08-04 20 39 03" src="https://user-images.githubusercontent.com/29221630/28969161-00a326be-7956-11e7-8045-632b3ef92008.png">
 <img width="1080" alt="2017-08-04 20 40 14" src="https://user-images.githubusercontent.com/29221630/28969160-008982b8-7956-11e7-9418-0ae80e558044.png">
